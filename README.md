@@ -4,15 +4,15 @@
 This project is about Automation of user API from Postman using Newman
 
 ## Technology used:
--Postman
--Newman
+- Postman
+- Newman
 
 ## Pre requisites:
 - NodeJS
 ## How to run:
--``` git clone ```
--``` npm i ```
--``` npm test ```
+- ``` git clone ```
+- ``` npm i ```
+- ``` npm test ```
 
 A report will be generated in your project source root
 
